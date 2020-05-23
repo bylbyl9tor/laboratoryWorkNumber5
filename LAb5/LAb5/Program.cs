@@ -75,7 +75,6 @@ class Program
             for (int j = 0; j < temp.Length; j++)
                 num[i, j] = Convert.ToInt32(temp[j]);
         }
-        // проверяем выводом на консоль
       
         int[,] ms =num;
         int v = ms.GetLength(0);
@@ -92,7 +91,6 @@ class Program
                 }
             }
         }
-        // ВЫВОД МАТРИЦ
         for (var j = 0; j < ms.GetLength(1); j++)
         {
             for (var i = 0; i < ms.GetLength(0); i++)
