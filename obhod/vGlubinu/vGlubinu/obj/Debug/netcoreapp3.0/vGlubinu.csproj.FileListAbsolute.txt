@@ -1,0 +1,11 @@
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\bin\Debug\netcoreapp3.0\vGlubinu.exe
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\bin\Debug\netcoreapp3.0\vGlubinu.deps.json
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\bin\Debug\netcoreapp3.0\vGlubinu.runtimeconfig.json
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\bin\Debug\netcoreapp3.0\vGlubinu.runtimeconfig.dev.json
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\bin\Debug\netcoreapp3.0\vGlubinu.dll
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\bin\Debug\netcoreapp3.0\vGlubinu.pdb
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\obj\Debug\netcoreapp3.0\vGlubinu.csprojAssemblyReference.cache
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\obj\Debug\netcoreapp3.0\vGlubinu.AssemblyInfoInputs.cache
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\obj\Debug\netcoreapp3.0\vGlubinu.AssemblyInfo.cs
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\obj\Debug\netcoreapp3.0\vGlubinu.dll
+E:\lab5\laboratoryWorkNumber5\obhod\vGlubinu\vGlubinu\obj\Debug\netcoreapp3.0\vGlubinu.pdb

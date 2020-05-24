@@ -1,1 +1,0 @@
-# laboratoryWorkNumber5

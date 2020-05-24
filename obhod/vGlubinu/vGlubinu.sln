@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vGlubinu", "vGlubinu\vGlubinu.csproj", "{06FE0E83-61A8-43B0-A952-C7E7478D61BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FE0E83-61A8-43B0-A952-C7E7478D61BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FE0E83-61A8-43B0-A952-C7E7478D61BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FE0E83-61A8-43B0-A952-C7E7478D61BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FE0E83-61A8-43B0-A952-C7E7478D61BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {442EDAE0-DAEE-465E-9049-40B9C6E39BAA}
+	EndGlobalSection
+EndGlobal
