@@ -1,0 +1,11 @@
+E:\LabWorkNumber5\Program\Program\bin\Debug\netcoreapp3.0\Program.exe
+E:\LabWorkNumber5\Program\Program\bin\Debug\netcoreapp3.0\Program.deps.json
+E:\LabWorkNumber5\Program\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.json
+E:\LabWorkNumber5\Program\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.dev.json
+E:\LabWorkNumber5\Program\Program\bin\Debug\netcoreapp3.0\Program.dll
+E:\LabWorkNumber5\Program\Program\bin\Debug\netcoreapp3.0\Program.pdb
+E:\LabWorkNumber5\Program\Program\obj\Debug\netcoreapp3.0\Program.csprojAssemblyReference.cache
+E:\LabWorkNumber5\Program\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfoInputs.cache
+E:\LabWorkNumber5\Program\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfo.cs
+E:\LabWorkNumber5\Program\Program\obj\Debug\netcoreapp3.0\Program.dll
+E:\LabWorkNumber5\Program\Program\obj\Debug\netcoreapp3.0\Program.pdb
